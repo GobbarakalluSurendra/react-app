@@ -1,11 +1,11 @@
-import Navbar from "./Navbar";
+import ContactForm from "./ContactForm";
 
 function App() {
   return (
     <div>
-      <Navbar />
-
       <h1>Welcome to MyApp</h1>
+
+      <ContactForm />
     </div>
   );
 }
